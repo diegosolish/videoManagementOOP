@@ -1,0 +1,55 @@
+e    221    43    Ciencia_Ficcion    5    The_Vanishing_of_Will_Byers    2017    Duffer_Brothers    Stranger_Things    1    1
+p    152    130    Infantil    5    Toy_Story_3    2010    Lee_Unkrich    false
+p    153    118    Accion_Y_Aventura    3    The_Dark_Night    2008    Christopher_Nolan    false
+e    222    52    Ciencia_Ficcion    1    The_Weirdo_on_Maple_Street    2017    Duffer_Brothers    Stranger_Things    2    1
+e    223    57    Ciencia_Ficcion    2    Holly,_Jolly    2017    Duffer_Brothers    Stranger_Things    3    1
+e    224    62    Ciencia_Ficcion    5    The_Body    2017    Duffer_Brothers    Stranger_Things    4    1
+e    225    70    Ciencia_Ficcion    3    The_Flea_and_the_Acrobat    2017    Duffer_Brothers    Stranger_Things    5    1
+p    159    179    Infantil    1    Up    2009    Bob_Peterson    tru
+e    226    76    Ciencia_Ficcion    2    The_Monster    2017    Duffer_Brothers    Stranger_Things    6    1
+e    227    84    Ciencia_Ficcion    5    The_Bathtub    2017    Duffer_Brothers    Stranger_Things    7    1
+p    155    127    Comedia    2    Bonnie_and_Clyde    1967    Arthur_Penn    true
+e    228    88    Ciencia_Ficcion    5    The_Upside_Down    2017    Duffer_Brothers    Stranger_Things    8    1
+e    229    45    Ciencia_Ficcion    1    MADMAX    2018    Duffer_Brothers    Stranger_Things    1    2
+p    163    123    Drama    1    En_Llamas    2013    Francis_Lawrence    true
+e    230    56    Ciencia_Ficcion    4    Trick_or_Treat,_Freak    2018    Duffer_Brothers    Stranger_Things    2    2
+p    169    108    infantil    1    Bucando_Nemo    2003    Andrew_Stanton    true
+e    231    59    Ciencia_Ficcion    1    The_Pollywog    2018    Duffer_Brothers    Stranger_Things    3    2
+e    232    55    Ciencia_Ficcion    5    Will_the_Wise    2018    Duffer_Brothers    Stranger_Things    4    2
+e    233    59    Ciencia_Ficcion    1    Dig_Dug    2018    Duffer_Brothers    Stranger_Things    5    2
+e    234    48    Ciencia_Ficcion    3    The_Spy    2018    Duffer_Brothers    Stranger_Things    6    2
+e    235    59    Ciencia_Ficcion    4    The_Lost_Sister    2018    Duffer_Brothers    Stranger_Things    7    2
+p    160    110    Comedia    2    Forrest_Gump    1994    Robert_Zemeckis    false
+p    161    122    Comedia    2    Ted    2012    Seth_MacFarlane    true
+e    236    60    Ciencia_Ficcion    5    The_Mind_Flayer    2018    Duffer_Brothers    Stranger_Things    8    2
+e    237    59    Ciencia_Ficcion    4    The_Gate    2018    Duffer_Brothers    Stranger_Things    9    2
+e    238    46    Accion_Y_Aventura    5    Efectuar_lo_acordado    2016    Jesús_Colmenar    La_Casa_De_Papel    1    1
+e    239    54    Accion_Y_Aventura    3    Imprudencias_letales    2016    Jesús_Colmenar    La_Casa_De_Papel    2    1
+e    240    55    Accion_Y_Aventura    3    Errar_al_disparar    2016    Jesús_Colmenar    La_Casa_De_Papel    3    1
+p    164    99    Accion_Y_Aventura    5    Los_Juegos_Del_Hambre    2012    Gary_Ross    false
+p    165    121    Accion_Y_Aventura    4    Nerve    2016    Ariel_Schulman    true
+p    168    105    infantil    3    Shrek_Tercero    2007    Chris_Miller    false
+e    241    57    Accion_Y_Aventura    3    Caballo_de_Troya    2016    Jesús_Colmenar    La_Casa_De_Papel    4    1
+e    242    50    Accion_Y_Aventura    4    El_día_de_la_marmota    2016    Jesús_Colmenar    La_Casa_De_Papel    5    1
+e    243    59    Accion_Y_Aventura    4    La_cálida_guerra_fría    2016    Jesús_Colmenar    La_Casa_De_Papel    6    1
+e    244    47    Accion_Y_Aventura    5    Refrigerada_inestabilidad    2016    Jesús_Colmenar    La_Casa_De_Papel    7    1
+p    157    184    Comedia    2    Airplane!    1980    Jim_Abrahams    false
+p    158    171    Ciencia_Ficcion    2    Pans_Labyrinth    2006    Guillermo_del_Toro    false
+p    156    157    Drama    4    Reservoir_Dogs    1992    Quentin_Tarantino    true
+e    245    46    Accion_Y_Aventura    3    Tú_lo_has_buscado    2016    Jesús_Colmenar    La_Casa_De_Papel    8    1
+e    246    55    Accion_Y_Aventura    3    El_que_la_sigue_la_consigue    2016    Jesús_Colmenar    La_Casa_De_Papel    9    1
+p    166    128    Drama    4    La_Teoria_Del_Todo    2014    James_Marsh    false
+p    167    132    Drama    2    Mente_Indomable    1998    Gus_Van_Sant    false
+e    247    45    Accion_Y_Aventura    5    Se_acabaron_las_máscaras    2017    Jesús_Colmenar    La_Casa_De_Papel    1    2
+e    248    61    Accion_Y_Aventura    2    La_cabeza_del_plan    2017    Jesús_Colmenar    La_Casa_De_Papel    2    2
+e    249    45    Accion_Y_Aventura    2    Cuestión_de_eficacia    2017    Jesús_Colmenar    La_Casa_De_Papel    3    2
+e    250    43    Accion_Y_Aventura    5    ¿Qué_hemos_hecho?    2017    Jesús_Colmenar    La_Casa_De_Papel    4    2
+p    162    166    Infantil    5    Mi_Villano_Favorito    2010    Chris_Renaud    false
+e    251    52    Accion_Y_Aventura    1    A_contrarreloj    2017    Jesús_Colmenar    La_Casa_De_Papel    5    2
+e    252    43    Accion_Y_Aventura    1    Bella_ciao    2017    Jesús_Colmenar    La_Casa_De_Papel    6    2
+e    253    43    Accion_Y_Aventura    2    Hemos_vuelto    2017    Jesús_Colmenar    La_Casa_De_Papel    7    2
+e    254    61    Accion_Y_Aventura    2    Aikido    2017    Jesús_Colmenar    La_Casa_De_Papel    8    2
+e    255    51    Accion_Y_Aventura    5    48_metros_bajo_el_suelo    2017    Jesús_Colmenar    La_Casa_De_Papel    9    2
+p    151    182    Ciencia_Ficcion    5    Avengers_Endgame    2019    Anthony_Russo    true
+p    154    106    Drama    4    The_Godfather    1972    Francis_Ford_Copppola    true
+
